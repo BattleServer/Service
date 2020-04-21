@@ -1,1 +1,2 @@
 Fred?
+What does mean "def" in python?
