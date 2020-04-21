@@ -1,1 +1,2 @@
 What does mean "def" in python?
+Bonus: What does format() do?
