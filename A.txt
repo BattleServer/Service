@@ -1,1 +1,2 @@
 It generates a function
+It adds a value to a certain part of a string
